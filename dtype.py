@@ -1,0 +1,6 @@
+print(bool("ghbdtn"))
+print(bool("1"))
+print(bool("0.1"))
+print(bool(None))
+print(bool("-2"))
+print(bool("0"))
